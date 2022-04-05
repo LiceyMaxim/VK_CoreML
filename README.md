@@ -28,6 +28,10 @@
 
 **https://github.com/LiceyMaxim/VK_CoreML/blob/main/solve.ipynb**
 
+Если возникают проблемы с загрузкой данных (wget), то их можно скачать вручную
+https://drive.google.com/file/d/1j4UDdE0qWxEOsHhMyBPi8hSCZSRyN9GA/view?usp=sharing
+https://drive.google.com/file/d/1JQWMelZa3ybAkI_mQibInwnr7HFCnWgM/view?usp=sharing
 
 В поиске информации я нашёл статью, она послужила основой для решения. Поэтому я решил использовать холодный старт)
 https://www.eigentheories.com/blog/lightfm-vs-hybridsvd/
+
