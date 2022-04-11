@@ -1,4 +1,4 @@
-Тестовое задание для стажёра в команду Core ML
+## Тестовое задание для стажёра в команду Core ML
 
 На датасете MovieLens 20M https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset сравните два подхода к построению рекомендаций:
 
